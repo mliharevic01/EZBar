@@ -1,0 +1,21 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+
+        android:centerColor="#57636e"
+        android:endColor="#57636e"
+        android:startColor="#57636e"
+        android:type="linear" />
+</shape>
+
+<!--this below is to create a gradient for the color-->
+<!-- android:angle="135"-->
+
+<!--
+    <gradient>
+        in here that is how a gradient is done
+        but for this side nave we are just gonna leave it
+        just one color.
+
+        *this the color green found on the side navigation
+        above the menu options -->

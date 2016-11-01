@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+
+            android:id="@+id/nav_home"
+            android:icon="@drawable/icon_house"
+            android:title="Home"
+            />
+        <item
+
+            android:id="@+id/nav_feed"
+            android:icon="@drawable/icon_feed"
+            android:title="Statistics"
+           />
+        <item
+
+            android:id="@+id/nav_calendar"
+            android:icon="@drawable/icon_calendar"
+            android:title="Alerts"
+         />
+        <item
+            android:id="@+id/nav_quadrangle"
+            android:icon="@drawable/icon_quadrangle"
+            android:title="Stock"
+            />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/icon_settings"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_jasperCard"
+            android:icon="@drawable/icon_jaspercard"
+            android:title="Contact"
+            android:visible="true"/>
+
+    </group>
+
+    <item android:title="Extra">
+    <menu>
+        <group  android:checkableBehavior="single">
+
+        </group>
+    </menu>
+    </item>
+
+</menu>

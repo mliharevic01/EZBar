@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--below are all the colors the school uses for specific branding-->
+    <color name="lightgreen">#57636e</color>
+    <color name="mediumgreen">#57636e</color>
+    <color name="darkgreen">#3d484f</color>
+    <color name="purple">#A51890</color>
+    <color name="orange">#D45D00</color>
+    <color name="green">#00703c</color>
+    <color name="grey">#666</color>
+    <color name="light_grey">#F2F2F2</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="colorAccent">#C0E1FF</color>
+    <!-- these colors below are for the tutorial-->
+    <color name="orangish" type="color">#F2D45D00</color>
+    <color name="greenish" type="color">#F21B5E20</color>
+    <color name="lightgreenish" type="color">#E6A3D032</color>
+    <color name="mediumgreenish" type="color">#E65A8827</color>
+    <color name="purpleish">#E6A51890</color>
+
+
+</resources>
+
