@@ -13,25 +13,6 @@
     </style>
     <!--commented out in the top is what gives color to the nav menu highlight -->
 
-    <style name="TextView">
-        <item name="android:textColor">@color/mediumgreen</item>
-        <item name="android:textSize">22sp</item>
-    </style>
-
-    <style name="TextViewSmall">
-        <item name="android:textColor">@color/grey</item>
-        <item name="android:textSize">16sp</item>
-    </style>
-
-    <style name="TextViewEmployee">
-        <item name="android:textColor">@color/mediumgreen</item>
-        <item name="android:textSize">24sp</item>
-    </style>
-
-    <style name="TextViewEmployeeSmall">
-        <item name="android:textColor">@color/grey</item>
-        <item name="android:textSize">18sp</item>
-    </style>
 
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>

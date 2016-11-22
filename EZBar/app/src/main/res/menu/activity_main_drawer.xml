@@ -12,7 +12,7 @@
             />
         <item
 
-            android:id="@+id/nav_feed"
+            android:id="@+id/nav_stats"
             android:icon="@drawable/icon_feed"
             android:title="Statistics"
            />

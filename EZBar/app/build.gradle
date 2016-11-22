@@ -2,6 +2,7 @@ apply plugin: 'com.android.application'
 
 
 android {
+    useLibrary  'org.apache.http.legacy'
     compileSdkVersion 23
     buildToolsVersion '24.0.3'
 
@@ -51,7 +52,5 @@ dependencies {
     compile 'com.android.support:design:23.4.0'
     compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
     compile 'com.android.support:customtabs:23.3.0'
-
-
 
 }

@@ -21,15 +21,15 @@
     <string name="Tutorial">Tutorial</string>
     <string name="Credits">Credits</string>
 
-<!--    <string name="tab_one">Tab1</string>
+    <!--    <string name="tab_one">Tab1</string>
     <string name="tab_two">Tab2</string>-->
 
 </resources>
 
 
-<!--this is how to state an array in xml-->
+    <!--this is how to state an array in xml-->
 
-<!--
+    <!--
 <string name="app_name"></string>
 
     <string-array name="menuOptions">
