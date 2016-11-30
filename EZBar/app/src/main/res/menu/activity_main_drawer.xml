@@ -8,34 +8,14 @@
 
             android:id="@+id/nav_home"
             android:icon="@drawable/icon_house"
-            android:title="Home"
+            android:title="Statistics"
             />
         <item
 
             android:id="@+id/nav_stats"
             android:icon="@drawable/icon_feed"
-            android:title="Statistics"
+            android:title="Inventory"
            />
-        <item
-
-            android:id="@+id/nav_calendar"
-            android:icon="@drawable/icon_calendar"
-            android:title="Alerts"
-         />
-        <item
-            android:id="@+id/nav_quadrangle"
-            android:icon="@drawable/icon_quadrangle"
-            android:title="Stock"
-            />
-        <item
-            android:id="@+id/nav_settings"
-            android:icon="@drawable/icon_settings"
-            android:title="Settings" />
-        <item
-            android:id="@+id/nav_jasperCard"
-            android:icon="@drawable/icon_jaspercard"
-            android:title="Contact"
-            android:visible="true"/>
 
     </group>
 
