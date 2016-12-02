@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+
+            android:id="@+id/nav_home"
+            android:icon="@drawable/icon_house"
+            android:title="Home"
+            />
+        <item
+
+            android:id="@+id/nav_stats"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Statistics"
+            />
+        <item
+
+            android:id="@+id/nav_alerts"
+            android:icon="@drawable/icon_alerts"
+            android:title="Alerts"
+            />
+        <item
+            android:id="@+id/nav_stock"
+            android:icon="@drawable/icon_stock"
+            android:title="Stock"
+            />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/icon_settings"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Contact"
+            android:visible="true"/>
+
+    </group>
+
+</menu>
