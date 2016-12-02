@@ -1,6 +1,7 @@
 package nyc.ezbar.ezbar;
 
 import android.app.Activity;
+import android.app.PendingIntent;
 import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
@@ -8,6 +9,8 @@ import android.content.res.ColorStateList;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.os.Handler;
+import android.support.v4.app.NotificationCompat;
+import android.support.v4.app.TaskStackBuilder;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
@@ -33,6 +36,7 @@ public class MainActivity extends AppCompatActivity
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.drawer_main);
+        //getActionBar().setDisplayHomeAsUpEnabled(true);
 
 
         //Sets up the toolbar
@@ -69,7 +73,20 @@ public class MainActivity extends AppCompatActivity
 
         if(id == R.id.nav_stats){
             Intent stats_intent = new Intent(this, AllProductsActivity.class);
+            PendingIntent pendingIntent =
+                    TaskStackBuilder.create(this)
+                            // add all of DetailsActivity's parents to the stack,
+                            // followed by DetailsActivity itself
+                            .addNextIntentWithParentStack(stats_intent)
+                            .getPendingIntent(0, PendingIntent.FLAG_UPDATE_CURRENT);
+
+            NotificationCompat.Builder builder = new NotificationCompat.Builder(this);
+            builder.setContentIntent(pendingIntent);
             this.startActivity(stats_intent);
+        }
+        else if(id == R.id.nav_home){
+            Intent recipe_intent = new Intent(this, RecipesActivity.class);
+            this.startActivity(recipe_intent);
         }
 
 

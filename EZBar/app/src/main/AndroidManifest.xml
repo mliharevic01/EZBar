@@ -17,6 +17,7 @@
             android:name=".MainActivity"
             android:configChanges="orientation"
             android:screenOrientation="portrait"
+
             android:theme="@style/AppTheme.NoActionBar">
             >
             <intent-filter>
@@ -27,8 +28,20 @@
             <intent-filter>
                 <action android:name="android.intent.action.SEARCH" />
             </intent-filter>
+
         </activity>
-        <activity android:name=".AllProductsActivity">
+        <activity android:name=".AllProductsActivity"
+            android:parentActivityName="nyc.ezbar.ezbar.MainActivity" >>
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="nyc.ezbar.ezbar.MainActivity" />
+        </activity>
+        <activity android:name=".RecipesActivity"
+            android:parentActivityName="nyc.ezbar.ezbar.MainActivity" >
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="nyc.ezbar.ezbar.MainActivity" />
         </activity>
     </application>
 

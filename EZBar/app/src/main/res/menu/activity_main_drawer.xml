@@ -8,7 +8,7 @@
 
             android:id="@+id/nav_home"
             android:icon="@drawable/icon_house"
-            android:title="Statistics"
+            android:title="Recipes"
             />
         <item
 
