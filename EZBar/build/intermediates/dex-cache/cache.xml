@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_f1b12341ecdc1b103b78f420118eec60e821a0f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_2681ddb22f9317829d36542cece79d609ae3cbf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mliha\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.5_0870bd2c050160d16b7476a936e461c2d6de0f6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_668e28ca7b15e638afdf4d578d5884acf6aaacf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3c3e65775eb8ae7929b7a08c24ad66b753531df3">
+        <dex dex="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_64d13940bf3aa18fc1ab06a6654f5528001aa334\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c129c9d38f885d03d04c7aaeb67377ca537ed35f">
+        <dex dex="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_29d8a0bbe48acebbd55771ae875b8b6b4d3a969c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_487f05b25e63949d449adade5b23d76b6d1e68cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mliha\Android SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_8ca1ecef9f99805567dc9987594318e17f1d371c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_8c095d36a1cdd20c12c1fbcc55511b67555b2333\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_b002909379c07332804cd16bba9a18814494a446\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1d3964db19259a503a8c9467e52c344c0372ebf8">
+        <dex dex="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-23.3.0_ec31a018d38801441810bd889abcd6a38266c30e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\mliha\Documents\AndroidStudioProjects\APP\EZBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_bcc1f93643ca9e0608b7ceb1b1cf3fd263691607\classes.dex" />
+    </item>
+
+</items>

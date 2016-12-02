@@ -1,0 +1,7 @@
+#Fri Dec 02 11:38:49 EST 2016
+base.0=C\:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_64d13940bf3aa18fc1ab06a6654f5528001aa334
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_29d8a0bbe48acebbd55771ae875b8b6b4d3a969c\\classes.dex
+base.1=C\:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_29d8a0bbe48acebbd55771ae875b8b6b4d3a969c
+file.0=C\:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_64d13940bf3aa18fc1ab06a6654f5528001aa334\\classes.dex

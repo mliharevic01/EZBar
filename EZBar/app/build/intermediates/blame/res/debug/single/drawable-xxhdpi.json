@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_calendar.png",
+        "source": "C:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\back.png",
+        "source": "C:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\src\\main\\res\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_settings.png",
+        "source": "C:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_feed.png",
+        "source": "C:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_feed.png"
+    },
+    {
+        "merged": "C:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_house.png",
+        "source": "C:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_house.png"
+    },
+    {
+        "merged": "C:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_quadrangle.png",
+        "source": "C:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_quadrangle.png"
+    },
+    {
+        "merged": "C:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\the_logo.png",
+        "source": "C:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\src\\main\\res\\drawable-xxhdpi\\the_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_jaspercard.png",
+        "source": "C:\\Users\\mliha\\Documents\\AndroidStudioProjects\\APP\\EZBar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_jaspercard.png"
+    }
+]
